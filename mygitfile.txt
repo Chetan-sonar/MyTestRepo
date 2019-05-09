@@ -1,7 +1,7 @@
-The Git Test File with Branch 1
+The Git Test File with Branch 2
 Hello World!!
 
-This is a very first branch that is been created 
+This is a very Second branch that is been created 
 Thanks
 Goodbye!
 
