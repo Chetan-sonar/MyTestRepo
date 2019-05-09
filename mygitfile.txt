@@ -1,9 +1,7 @@
-The Git Test File
-Hello World
+The Git Test File with Branch 1
+Hello World!!
 
-This is a very first file created today 9th May
+This is a very first branch that is been created 
 Thanks
 Goodbye!
 
-First edit after 10 mins
-Second edit after 10 mins
